@@ -149,12 +149,22 @@ label {
   display: block;
   margin-top: 10px;
 }
+.contact-left
+ {
+  display: grid;
+  
+  place-items: center;
+}
+input{
+  padding:0.5rem;
+}
 
 input,
 textarea {
   display: block;
   width: 100%;
   border: 1.5px solid black;
+  padding:0.5rem;
 }
 
 .one {
