@@ -397,5 +397,17 @@ textarea {
   text-align: center;
 }
 
-/* <form class="fill-ups" name="contact" method="POST" data-netlify="true"> */
-/* <input class= "inputs" type="hidden" name="form-name" value="contact" /> */
+.credits{
+  color:white;
+  text-align: center;
+  font-family:sans-serif;
+
+}
+
+.players{
+  margin-left: 45%;
+  color:white;
+}
+.credtitle{
+  font-size:20px;
+}
